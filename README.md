@@ -1,4 +1,4 @@
-# test-package
+# Humio Demo Package
 
 Hello demo people!
 
