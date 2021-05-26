@@ -1,3 +1,7 @@
 ---
 name: My Widget
 query: foo | bar
+labals:
+  - Primary
+  - Foo
+  - Bar
